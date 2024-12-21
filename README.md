@@ -1,28 +1,37 @@
-# Diablo 2 Savegames
+# Diablo 2 Resurrected Savegames
 
-With Diablo 2 Resurrected coming out soon, I decided to share my single player characters.
+This is my single player character collection for Diablo 2 Resurrected.
 This collection is hopefully useful for testing gear, builds etc.
 All characters in this collection are >= Lvl 80 and are suited for hell difficulty.  
+
 ## The collection includes:
 
-* Hybrid Javazon (poison/lightning)
-* Tornado druid
-* Avenger paladin
-* Blizzard sorceress
-* Kicksin (kick assassin)
-* Bone necromancer
-* MF summoner necro
-* MF fire sorc
-* Fury druid
-* Fire/ice bowazon
-* Frenzy barbarian
-* Lightning/ES sorc
-* Trap assassin
-* Zealer paladin
-* Fire/lightning melee assassin 
+* Posion Nova Necro
+* Hybrid Amazon (physical/lightning)
+* Tornado Druid
 * Hammerdin
-* Whirlwind barbarian
-* Gold find barbarian (zerk)
-* Wolfhowl barbarian
+* Blizzard Sorc
+* Kicksin
+* Bone Necro
+* MF Summoner Necro
+* Shapeshift Druid (wolf)
+* Bow Amazon (elemental)
+* Frenzy Barb
+* Chain Lightning Sorc
+* Trapsin
+* Zealer
+* Fireclaw Druid
+* Crossbow/Ench Sorc
+* Phoenix Strike Assassin
+* Throw Barb
+* Smiter/Avenger hybrid
+* Zerker
+* Goldbarb
+* FoH Pala
+* Wolfbarb
+* MF Fire Sorc
 
 
+## Savegames for legacy LoD
+
+The old version of the savegame collection is still available via the commit history.
